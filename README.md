@@ -9,7 +9,7 @@ Fraudsters send fake emails or set up fake web sites that mimic Yahoo!'s sign-in
 * **recall:  95**
 
 ## Deployment
-An API was created using Python FAstAPI and was deployed to **Google** Cloud Platform taking advantage of its CloudRun and Storage Buckect. The entire deployment was automated using Google Cloud CLI. 
+An API was created using Python FastAPI and was deployed on **Google** Cloud Platform taking advantage of its CloudRun and Storage Buckect. The entire deployment was automated using Google Cloud CLI. 
 
 ![gcp](uploads/d12c5ab12c1b2a7c1bcc79c4bf0dff78/gcp.png)
 
@@ -32,7 +32,6 @@ To deploy the model in your account:
 * Bidirectional
 * Conv1D
 * Transfere Learning techniques
-
 
 ### **Evaluation Metrics Used**
 * Accuracy score
