@@ -1,4 +1,4 @@
-# Malicious-Url-Detection Using MAchine Learning And Deep Learning
+# Malicious-Url-Detection Using Machine Learning And Deep Learning
 
 Fraudsters send fake emails or set up fake web sites that mimic Yahoo!'s sign-in pages (or the sign-in pages of other trusted companies, such as eBay or PayPal) to trick you into disclosing your user name and password. This practice is sometimes referred to as "phishing" — a play on the word "fishing" — because the fraudster is fishing for your private account information.
 
