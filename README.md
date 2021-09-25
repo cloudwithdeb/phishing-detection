@@ -12,6 +12,10 @@ A machine learning and Deep Learning model to detect malicious urls to prevent p
 * **f1 score:  96**
 * **recall:  95**
 
+## Tools
+* Docker
+* Python(FastAPI)
+
 ## Deployment
 An API was created using Python FastAPI and was deployed on **Google** Cloud Platform taking advantage of its CloudRun and Storage Buckect. The entire deployment was automated using Google Cloud CLI. 
 
