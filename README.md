@@ -24,13 +24,6 @@ An API was created using Python FastAPI and was deployed on **Google** Cloud Pla
 
 **Note** Give permision to execute the file `scripts.sh` using `chmod +x scripts.sh`. Run the script by typing `./scripts.sh` to deploy the application
 
-## Steps
-To deploy the model in your account:
-1. create a GCP account and setup a new project. 
-2. Clone the repository and give permission to script.sh file.
-3. run the command `./script.sh` to automate the entire deployment.
-4. After successfull deployment, a URL will be displayed copy it into your browser and follow the instructions from there.
-
 ## **Algorithms Used**
 #### Machine Learning
 * NaiveBayes
