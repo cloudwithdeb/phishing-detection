@@ -24,8 +24,6 @@ An API was created using Python FastAPI and was deployed on **Google** Cloud Pla
 
 **Note** Give permision to execute the file `scripts.sh` using `chmod +x scripts.sh`. Run the script by typing `./scripts.sh` to deploy the application
 
-![gcp](uploads/d12c5ab12c1b2a7c1bcc79c4bf0dff78/gcp.png)
-
 ## Steps
 To deploy the model in your account:
 1. create a GCP account and setup a new project. 
